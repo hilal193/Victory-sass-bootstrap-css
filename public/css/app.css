@@ -17246,6 +17246,8 @@ a {
 
 .banner {
   background-image: url(../../../public/img/banner-bg.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
   padding: 15% !important;
 }
 
