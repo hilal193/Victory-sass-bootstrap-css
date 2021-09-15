@@ -17244,4 +17244,15 @@ a {
   color: black !important;
 }
 
+.banner {
+  background-image: url(../../../public/img/banner-bg.jpg);
+  padding: 15% !important;
+}
+
+.boutton {
+  background-color: #d21335;
+  color: white;
+  padding: 1%;
+}
+
 /*# sourceMappingURL=app.css.map */
